@@ -1,0 +1,20 @@
+{
+   "users":[
+      {
+         "id":1,
+         "username":"test"
+      },
+      {
+         "id":2,
+         "username":"name 1"
+      }
+   ],
+   "machines":[
+      {
+         "id":"M1"
+      },
+      {
+         "id":"M2"
+      }
+   ]
+}
